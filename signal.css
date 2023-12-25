@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#signal{
+    height: 550px;
+    width: 500px;
+    margin-left: 35rem;
+}
+button{
+    height: 60px;
+    width: 200px;
+    margin: 2rem;
+    margin-left: 15rem;
+    border-radius: 2rem;
+}
+#stop{
+    background-color: red;
+    color: white;
+    font-size: x-large;
+}
+#wait{
+    background-color: yellow;
+    /* color: white; */
+    font-size: x-large;
+}
+#go{
+    background-color: green;
+    color: white;
+    font-size: x-large;
+}
